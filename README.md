@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zeeshan Shaikh</h1>
-<h3 align="center">A passionate full-stack developer from India!</h3>
+<h3 align="center">A passionate Java full-stack developer from India!</h3>
 
 - 🌱 I’m currently learning **LLD and React Native**
 - 👨‍💻 All of my projects are available here at Github ✌!
