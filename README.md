@@ -8,6 +8,8 @@
 <h3 align="left">Connect with me:</h3>
 
 <a href="https://www.linkedin.com/in/zeeshanshaikh001/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://stackoverflow.com/users/8742455/zeeshan-shaikh" target="blank"><img src="https://aleen42.github.io/badges/src/stackoverflow.svg" /></a>
+<a href="Zeeshan#9380" target="blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>
 </p>
 
 <h3 align="left">🚀 Daily Skills</h3>
