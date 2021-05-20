@@ -2,7 +2,7 @@
 <h3 align="center">A passionate full-stack developer from India!</h3>
 
 - 🌱 I’m currently learning **LLD and React Native**
-- 👨‍💻 All of my projects are available at here at Github ✌!
+- 👨‍💻 All of my projects are available here at Github ✌!
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
