@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Zeeshan Shaikh</h1>
 <h3 align="center">A passionate Java full-stack developer from India!</h3>
 
-- 🌱 I’m currently learning **web development**  
+- 🌱 I’m currently trying to understand **Artificial Intelligence and Machine learning**  
 - 👨‍💻 All of my projects are available here at Github ✌!  
 - 🌐 Check out my website: [proteinshaikh.com](https://www.proteinshaikh.com)
 
