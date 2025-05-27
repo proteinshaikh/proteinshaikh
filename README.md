@@ -4,7 +4,7 @@
 <p align="center">
   🌱 Currently diving deep into <strong>Artificial Intelligence & Machine Learning</strong> <br>
   👨‍💻 All of my projects are available right here on <strong>GitHub</strong> ✌<br>
-  🌐 Visit my portfolio: <a href="https://www.proteinshaikh.com" target="_blank"><strong>proteinshaikh.com</strong></a>
+  🌐 Visit my site: <a href="https://www.proteinshaikh.com" target="_blank"><strong>proteinshaikh.com</strong></a>
 </p>
 
 ---
