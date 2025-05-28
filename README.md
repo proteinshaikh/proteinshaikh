@@ -2,7 +2,7 @@
 <h3 align="center">🚀 A Passionate Java Full-Stack Developer from India 🇮🇳</h3>
 
 <p align="center">
-  🌱 Currently diving deep into <strong>Artificial Intelligence & Machine Learning</strong> <br>
+  🌱 Currently diving deep into <strong>Mobile app development</strong> <br>
   👨‍💻 All of my projects are available right here on <strong>GitHub</strong> ✌<br>
   🌐 Visit my site: <a href="https://www.proteinshaikh.com" target="_blank"><strong>proteinshaikh.com</strong></a>
 </p>
