@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# ⚡ Z E E S H A N   S H A I K H
+# ⚡ Z E E S H A N &nbsp;  S H A I K H
 
 ### 🏙️ SOFTWARE ENGINEER // AI EXPLORER
 
@@ -80,26 +80,10 @@
 
 ---
 
-## 🚀 CURRENT MISSIONS
+## 🚀 Current learnings
 
 | MISSION | STATUS |
 |:---|:---|
-| Mastering Java & Spring Ecosystem | 🟢 ACTIVE |
-| Advanced System Design | 🟢 ACTIVE |
-| Python for AI Engineering | 🟢 ACTIVE |
 | LLMs & Generative AI | 🟢 ACTIVE |
-| Retrieval-Augmented Generation | 🟡 EXPLORING |
-| AI Agents & Tool Calling | 🟡 EXPLORING |
-| Full-Stack Development | 🟡 UPGRADING |
-
----
-
-<div align="center">
-
-### 🌆 WELCOME TO MY DIGITAL WORLD
-
-**NO FINAL LEVEL. JUST NEW MISSIONS.**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090979,50:00D4FF,100:7B2FF7&height=120&section=footer" />
-
-</div>
+| Retrieval-Augmented Generation | 🟢 ACTIVE |
+| AI Agents & Tool Calling | 🟢 ACTIVE |
