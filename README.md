@@ -1,61 +1,105 @@
-<h1 align="center">Hi 👋, I'm Zeeshan Shaikh</h1>
-<h3 align="center">🚀 A Passionate Java Full-Stack Developer from India 🇮🇳</h3>
 
-<p align="center">
-  🌱 Currently diving deep into <strong>Mobile app development</strong> <br>
-  👨‍💻 All of my projects are available right here on <strong>GitHub</strong> ✌<br>
-  🌐 Visit my site: <a href="https://www.proteinshaikh.com" target="_blank"><strong>proteinshaikh.com</strong></a>
-</p>
+<div align="center">
 
----
+# ⚡ Z E E S H A N   S H A I K H
 
-### 🤝 Connect With Me:
+### 🏙️ SOFTWARE ENGINEER // AI EXPLORER
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/zeeshanshaikh001/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://stackoverflow.com/users/8742455/zeeshan-shaikh" target="_blank">
-    <img src="https://img.shields.io/badge/StackOverflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white" />
-  </a>
-</p>
+**BUILDING THE FUTURE. ONE COMMIT AT A TIME.**
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=20&duration=2500&pause=800&color=00F0FF&center=true&vCenter=true&width=600&lines=JAVA+%2F+SPRING+BOOT+SPECIALIST;DISTRIBUTED+SYSTEMS+ENGINEER;EXPLORING+LLMs+%2F+RAG+%2F+AI+AGENTS;ALWAYS+LEARNING.+NEVER+RESPAWNING." />
+
+[LINKEDIN](https://www.linkedin.com/in/zeeshanshaikh001/) // [STACK OVERFLOW](https://stackoverflow.com/users/8742455/zeeshan-shaikh) // [PORTFOLIO](https://www.proteinshaikh.com)
+
+</div>
 
 ---
 
-### 💻 Backend Skills
+## 🎮 PLAYER PROFILE
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring-%236DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring%20AI-%236DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-</p>
+```text
+╔══════════════════════════════════════════════╗
+║             PLAYER IDENTIFICATION            ║
+╠══════════════════════════════════════════════╣
+║  NAME       : ZEESHAN SHAIKH                  ║
+║  CLASS      : SOFTWARE ENGINEER               ║
+║  EXPERIENCE : 10+ YEARS                       ║
+║  LOCATION   : DUBAI, UAE                      ║
+║  SPECIALTY  : BACKEND / DISTRIBUTED SYSTEMS   ║
+║  SIDE QUEST : AI & LLM ENGINEERING            ║
+║  STATUS     : ALWAYS UPGRADING                ║
+╚══════════════════════════════════════════════╝
+```
 
-### 🎨 Frontend Skills
+## ⚔️ TECH LOADOUT
 
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-%23239120?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-%2320232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/React_Native-%2320232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-</p>
+### 🟥 BACKEND ARSENAL
 
-### 🗄️ Database Skills
+<img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,gradle,kafka,python,nodejs&theme=dark" />
 
-<p align="center">
-  <img src="https://img.shields.io/badge/MySQL-%2300f?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-%23CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
-</p>
+`Java 8/17+` `Spring Boot` `Spring Cloud` `Microservices` `REST APIs` `JPA` `Hibernate` `Kafka` `Feign`
 
-### 🤖 AI / ML Skills
+### 🟪 AI / LLM LAB
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Artificial%20Intelligence-blueviolet?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-%23FF6F00?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-</p>
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow&theme=dark" />
+
+`Generative AI` `LLMs` `RAG Pipelines` `Embeddings` `Vector Search` `Semantic Search` `Prompt Engineering` `AI Agents` `Tool Calling` `Spring AI`
+
+**CURRENT MISSION:** Moving beyond traditional software engineering into LLM-powered applications and intelligent systems.
+
+### 🟦 FRONTEND & MOBILE
+
+<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,reactnative&theme=dark" />
+
+`JavaScript` `TypeScript` `React` `React Native` `HTML5` `CSS3`
+
+### 🟩 DATABASES & STORAGE
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,redis&theme=dark" />
+
+`MS SQL Server` `Oracle` `MongoDB` `MySQL` `Redis` `PostgreSQL`
+
+### 🟨 CLOUD / DEVOPS / INFRASTRUCTURE
+
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,openshift,jenkins,gitlab,github,linux,azure,grafana&theme=dark" />
+
+`Docker` `Kubernetes` `OpenShift` `Jenkins` `GitLab CI/CD` `ArgoCD` `Helm` `Azure` `Grafana` `Dynatrace` `ELK`
 
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&color=61DAFB&width=435&lines=Always+Learning;Always+Building;Java+Lover+%E2%9D%A4;React+Native+Explorer;ProteinShaikh+on+a+Mission!" />
-</p>
+## 🏦 EXPERIENCE UNLOCKED
+
+**INDUSTRY: BANKING & FINTECH**
+
+- Digital Banking & Business Banking
+- Payment Processing & Money Transfers
+- Cards, Wallets & Transaction Processing
+- Microservices & Event-Driven Architecture
+- Enterprise Security & API Integrations
+- High-Availability Distributed Systems
+
+---
+
+## 🚀 CURRENT MISSIONS
+
+| MISSION | STATUS |
+|:---|:---|
+| Mastering Java & Spring Ecosystem | 🟢 ACTIVE |
+| Advanced System Design | 🟢 ACTIVE |
+| Python for AI Engineering | 🟢 ACTIVE |
+| LLMs & Generative AI | 🟢 ACTIVE |
+| Retrieval-Augmented Generation | 🟡 EXPLORING |
+| AI Agents & Tool Calling | 🟡 EXPLORING |
+| Full-Stack Development | 🟡 UPGRADING |
+
+---
+
+<div align="center">
+
+### 🌆 WELCOME TO MY DIGITAL WORLD
+
+**NO FINAL LEVEL. JUST NEW MISSIONS.**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090979,50:00D4FF,100:7B2FF7&height=120&section=footer" />
+
+</div>
